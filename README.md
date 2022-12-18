@@ -1,6 +1,6 @@
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
 
-<a href="https://github.com/YounisJohn/followers">
+<a href="https://github.com/YounisJohn"><img src="https://img.shields.io/github/followers/YounisJohn?label=followers&style=social"/></a>
 
 <img title="Followers" src="https://img.shields.io/github/followers/YounisJohn?label=Followers&color=red&style=flat-square"></a>
 
