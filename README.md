@@ -2,8 +2,6 @@
 
 <a href="https://github.com/YounisJohn"><img src="https://img.shields.io/github/followers/YounisJohn?label=followers&style=social"/></a>
 
-<img title="Followers" src="https://img.shields.io/github/followers/YounisJohn?label=Followers&color=red&style=flat-square"></a>
-
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Egoestic.boii)
 
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/Egoestic.boii)
