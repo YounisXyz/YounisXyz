@@ -1,13 +1,13 @@
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
-</p>
+
 <a href="https://github.com/YounisJohn/followers">
-</p>
+
 <img title="Followers" src="https://img.shields.io/github/followers/YounisJohn?label=Followers&color=red&style=flat-square"></a>
-</p>
+
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Egoestic.boii)
-</p>
+
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/Egoestic.boii)
-</p>
+
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
 
 </p>
