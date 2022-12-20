@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+YOUNIS+JOHN)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Student+of+9th,+10th+Class+From+DGK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Student+of+9th,+10th+Class+⚠️🙂)](https://git.io/typing-svg)
 
 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
