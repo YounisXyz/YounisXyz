@@ -24,8 +24,10 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisJohn&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
-<a href="https://github.com/Dapunta/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Facebot&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Dawn&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/premium"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Force&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisJohn/auto_share"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=auto_share&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisJohn/uid_crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=uid_crack&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisJohn/Facebot"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Facebot&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisJohn/Dawn"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Dawn&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisJohn/Force"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisJohn&repo=Force&theme=chartreuse-dark"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=CYTHON+FAMILY+TEAM+%C2%AE)](https://git.io/typing-svg)
