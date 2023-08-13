@@ -27,6 +27,3 @@
 <a href="https://github.com/YounisXyz/Xyz"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=auto_share&theme=chartreuse-dark"></a>
 <a href="https://github.com/YounisXyz/uid_crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=uid_crack&theme=chartreuse-dark"></a>
 <a href="https://github.com/YounisXyz/auto_share"><img width="400" height="140" src=""></a>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=CYTHON+FAMILY+TEAM+%C2%AE)](https://git.io/typing-svg)
