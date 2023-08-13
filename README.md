@@ -26,6 +26,6 @@
 <p align="center">
 <a href="https://github.com/YounisXyz/Xyz"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=auto_share&theme=chartreuse-dark"></a>
 <a href="https://github.com/YounisXyz/uid_crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=uid_crack&theme=chartreuse-dark"></a>
-<a href="https://github.com/YounisXyz/auto_share"><img width="400" 
-height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=auto_share&theme=chartreuse-dark"></a>
+<a href="https://github.com/YounisXyz/brute_force"><img width="400" 
+height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YounisXyz&repo=brute_force&theme=chartreuse-dark"></a>
 <a 
